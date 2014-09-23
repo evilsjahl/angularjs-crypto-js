@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-crypto-js",
+  "version": "0.0.0",
+  "authors": [
+    "Dawson Reid <dreid93@gmail.com>"
+  ],
+  "description": "An AngularJs service wrapper around CryptoJs.",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "crypto",
+    "angular",
+    "angularjs",
+    "encryption"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crypto-js": "https://code.google.com/p/crypto-js/downloads/detail?name=CryptoJS%20v3.1.2.zip",
+    "angularjs": "~1.2.25"
+  }
+}
